@@ -8,10 +8,6 @@
     color: black;
     
 }
-.name:hover{
-    border: solid 2px rgb(91, 53, 109);
-    text-shadow: 3px 3px 3px orange;
-}
 .direction:hover{
     background-color: lightsalmon;
     color: darkmagenta;
