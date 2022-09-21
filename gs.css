@@ -56,6 +56,10 @@ tr:nth-child(even){
     border: solid 2px rgb(91, 53, 109);
     text-shadow: 3px 3px 3px orange;
 }
+.chorus:hover{
+    border: solid 2px rgb(91, 53, 109);
+    text-shadow: 3px 3px 3px orange;
+}
 ul.navbar-horizontal{
 
     list-style-type: none;
